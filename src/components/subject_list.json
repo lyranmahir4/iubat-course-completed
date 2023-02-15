@@ -1,0 +1,282 @@
+﻿[
+    {
+        "Courser Code": "ART 102",
+        "Courser Name": "Educational Planning",
+        "Credits": "1"
+    },
+    {
+        "Courser Code": "ENG 101",
+        "Courser Name": "Basic English Composition",
+        "Credits": "4"
+    },
+    {
+        "Courser Code": "CSE 103",
+        "Courser Name": "Fundamentals of Computers and Applications",
+        "Credits": "3"
+    },
+    {
+        "Courser Code": "CSE 104",
+        "Courser Name": "Computer Applications Lab",
+        "Credits": "1"
+    },
+    {
+        "Courser Code": "MAT 107",
+        "Courser Name": "Mathematics",
+        "Credits": "4"
+    },
+    {
+        "Courser Code": "ENG 102",
+        "Courser Name": "English Comprehension and Speaking",
+        "Credits": "3"
+    },
+    {
+        "Courser Code": "PHY 112",
+        "Courser Name": "Physics",
+        "Credits": "3"
+    },
+    {
+        "Courser Code": "PHY 113",
+        "Courser Name": "Physics Lab",
+        "Credits": "1"
+    },
+    {
+        "Courser Code": "BUS 201",
+        "Courser Name": "Business Communication",
+        "Credits": "3"
+    },
+    {
+        "Courser Code": "MAT 147",
+        "Courser Name": "Applied Calculus",
+        "Credits": "3"
+    },
+    {
+        "Courser Code": "CSE 183",
+        "Courser Name": "Programming C",
+        "Credits": "3"
+    },
+    {
+        "Courser Code": "CSE 184",
+        "Courser Name": "Programming C Lab",
+        "Credits": "1"
+    },
+    {
+        "Courser Code": "MAT 219",
+        "Courser Name": "Linear Algebra",
+        "Credits": "2"
+    },
+    {
+        "Courser Code": "PSY 105",
+        "Courser Name": "General Psychology",
+        "Credits": "3"
+    },
+    {
+        "Courser Code": "ENG 203",
+        "Courser Name": "Advanced English Composition",
+        "Credits": "3"
+    },
+    {
+        "Courser Code": "ART 103",
+        "Courser Name": "Professional Etiquette and Grooming",
+        "Credits": "0"
+    },
+    {
+        "Courser Code": "EEN 183",
+        "Courser Name": "Circuit Analysis I",
+        "Credits": "3"
+    },
+    {
+        "Courser Code": "EEN 184",
+        "Courser Name": "Circuit Lab",
+        "Credits": "1"
+    },
+    {
+        "Courser Code": "CSE 197",
+        "Courser Name": "Assembly Language",
+        "Credits": "3"
+    },
+    {
+        "Courser Code": "STA 240",
+        "Courser Name": "Statistics",
+        "Credits": "3"
+    },
+    {
+        "Courser Code": "MAT 247",
+        "Courser Name": "Numerical Analysis",
+        "Credits": "3"
+    },
+    {
+        "Courser Code": "MAT 257",
+        "Courser Name": "Discrete Mathematics",
+        "Credits": "3"
+    },
+    {
+        "Courser Code": "CSE 231",
+        "Courser Name": "Fundamentals of Electronics and Digital Systems",
+        "Credits": "3"
+    },
+    {
+        "Courser Code": "CSE 232",
+        "Courser Name": "Electronics and Digital Lab",
+        "Credits": "1"
+    },
+    {
+        "Courser Code": "CSE 247",
+        "Courser Name": "Computer Architecture",
+        "Credits": "3"
+    },
+    {
+        "Courser Code": "CHM 115",
+        "Courser Name": "General Chemistry",
+        "Credits": "3"
+    },
+    {
+        "Courser Code": "CHM 116",
+        "Courser Name": "General Chemistry Lab",
+        "Credits": "1"
+    },
+    {
+        "Courser Code": "ENG 250",
+        "Courser Name": "Public Speaking",
+        "Credits": "3"
+    },
+    {
+        "Courser Code": "ART 202",
+        "Courser Name": "Career Planning and Development-I",
+        "Credits": "1"
+    },
+    {
+        "Courser Code": "CSE 283",
+        "Courser Name": "Programming (C++)",
+        "Credits": "3"
+    },
+    {
+        "Courser Code": "CSE 284",
+        "Courser Name": "Programming (C++) Lab",
+        "Credits": "1"
+    },
+    {
+        "Courser Code": "CSE 307",
+        "Courser Name": "Operating Systems",
+        "Credits": "3"
+    },
+    {
+        "Courser Code": "CSC 329",
+        "Courser Name": "Logic Design and Switching Circuits",
+        "Credits": "3"
+    },
+    {
+        "Courser Code": "CSE 330",
+        "Courser Name": "Logic Lab",
+        "Credits": "1"
+    },
+    {
+        "Courser Code": "CSE 347",
+        "Courser Name": "Computer Hardware and Maintenance",
+        "Credits": "2"
+    },
+    {
+        "Courser Code": "CSE 348",
+        "Courser Name": "Computer Hardware Lab",
+        "Credits": "2"
+    },
+    {
+        "Courser Code": "PHI 114",
+        "Courser Name": "Introduction to Philosophy",
+        "Credits": "3"
+    },
+    {
+        "Courser Code": "CSE 391",
+        "Courser Name": "Data Structures and Algorithms",
+        "Credits": "4"
+    },
+    {
+        "Courser Code": "CSE 397",
+        "Courser Name": "Theory of Computation",
+        "Credits": "4"
+    },
+    {
+        "Courser Code": "CSE 433",
+        "Courser Name": "Database Management System",
+        "Credits": "3"
+    },
+    {
+        "Courser Code": "CSE 434",
+        "Courser Name": "Database Management System Lab",
+        "Credits": "1"
+    },
+    {
+        "Courser Code": "ART 203",
+        "Courser Name": "Career Planning and Development-II",
+        "Credits": "1"
+    },
+    {
+        "Courser Code": "CSE 387",
+        "Courser Name": "System Analysis and Design",
+        "Credits": "3"
+    },
+    {
+        "Courser Code": "CSC 437",
+        "Courser Name": "Compiler Design",
+        "Credits": "3"
+    },
+    {
+        "Courser Code": "CSC 383",
+        "Courser Name": "Programming (JAVA)",
+        "Credits": "3"
+    },
+    {
+        "Courser Code": "CSC 384",
+        "Courser Name": "Programming (JAVA) Lab",
+        "Credits": "1"
+    },
+    {
+        "Courser Code": "CSC 439",
+        "Courser Name": "Programming Languages and Structures",
+        "Credits": "3"
+    },
+    {
+        "Courser Code": "CSC 439",
+        "Courser Name": "Visual Programming",
+        "Credits": "3"
+    },
+    {
+        "Courser Code": "CSC 440",
+        "Courser Name": "Visual Programming Lab",
+        "Credits": "1"
+    },
+    {
+        "Courser Code": "CSC 455",
+        "Courser Name": "Computer Graphics",
+        "Credits": "3"
+    },
+    {
+        "Courser Code": "CSC 465",
+        "Courser Name": "Data Communication and Computer Network",
+        "Credits": "3"
+    },
+    {
+        "Courser Code": "CSC 466",
+        "Courser Name": "Network Lab",
+        "Credits": "1"
+    },
+    {
+        "Courser Code": "CSC 469",
+        "Courser Name": "Software Engineering",
+        "Credits": "3"
+    },
+    {
+        "Courser Code": "CSC 470",
+        "Courser Name": "Software Engineering Lab",
+        "Credits": "1"
+    },
+    {
+        "Courser Code": "CSE 490",
+        "Courser Name": "Practicum",
+        "Credits": "9"
+    },
+    {
+        "Courser Code": "Total",
+        "Courser Name": "",
+        "Credits": "137"
+    }
+]
